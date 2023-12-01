@@ -1,6 +1,6 @@
 # Dad Jokes
 
-This is the [Dad Jokes project (Day 10) in the Udemy course 50 projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days).
+This is the Dad Jokes project (Day 10) in the [Udemy course 50 projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days).
 
 ## Project Details
 
@@ -40,3 +40,5 @@ This project is similar to another project I created using the fetch API. In the
 Original Project idea: Brad Traversy, Florin Pop [Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days)
 
 Original HTML, CSS & Javascript provided by: Brad Traversy, Florin Pop [Udemy course 50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+50+days)
+
+Emoji Images by: [Prashant Vishwakarma](https://pixabay.com/users/flyingsaga-26208310/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7221581"), [Christian Dorn](https://pixabay.com/users/conmongt-1226108/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7799025), and [Amit Goyal](https://pixabay.com/users/imgmall-38117833/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8148651) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7799025)
