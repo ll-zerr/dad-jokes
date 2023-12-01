@@ -8,7 +8,7 @@ The goal of the project is to populate the page with a card that displays a rand
 
 ### View My Project:
 
-![Screenshot]()
+![Screenshot](images/smartmockups_dad-jokes2.jpg)
 
 ## Features
 
@@ -30,6 +30,7 @@ The goal of the project is to populate the page with a card that displays a rand
 - Create variables for the target elements.
 - Create a function to generate the joke via a fetch API request.
 - Add an event listener to the button in order to generate another joke.
+- Add minimal images to modify the visual appeal of the background.
 
 ### Continued development
 
